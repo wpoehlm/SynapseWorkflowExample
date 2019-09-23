@@ -1,0 +1,19 @@
+{
+    "executedEntity": "https://github.com/Sage-Bionetworks/amp-workflows/tree/2c41bcf98c772df003b3839b6777610fe2bddd46/amp-rnaseq_reprocessing/amp-rnaseq_reprocess-workflow",
+    "infile": {
+        "class": "File",
+        "metadata": {},
+        "path": "/home/wpoehlm/Testing/SynapseWorkflowExample/testing/test_output.txt",
+        "secondaryFiles": []
+    },
+    "parentId": "syn20783166",
+    "synapseConfig": {
+        "class": "File",
+        "path": "/home/wpoehlm/.synapseConfig"
+    },
+    "usedEntity": {
+        "id": "syn20783288",
+        "version": 1
+    }
+}
+
